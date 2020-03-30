@@ -6,7 +6,7 @@ Create a web site with JavaScript application that displays and filters the data
 The web app.js is divided into two parts: (1) building the baseline table, (2) applying the filters to the data table based on user's input
 
 JavaScript App uses d3 technology to "listen" the events that happen on the web site due to user's activity. In this case it is responding to clicking the button, selecting and setting up the data filter.
-D3. is also used to build the data table by scanning through HTML web frame for tbody and placing the proper data.
+D3. is also used to build the data table by scanning through HTML web frame for <tbody> tag and placing the proper data.
 
 The esthetic site of the web such as background, font color and style is handled by style.css app
 

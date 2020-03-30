@@ -13,7 +13,7 @@ The esthetic site of the web such as background, font color and style is handled
 ## Resources
 
 -	Technologies used: HTML5, JavaScript, D3 
-- Programs: index.html,app.js, style.css
+- Programs: index.html, app.js, style.css
 
 
 ## Challenge overview

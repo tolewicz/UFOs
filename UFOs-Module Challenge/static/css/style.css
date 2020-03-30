@@ -1,0 +1,16 @@
+body {
+
+    color: #f7f7f7;
+  }
+
+  .jumbotron{ /*will apply to all objects with class jumbotron*/
+      background-image: url("../images/nasa.jpg");
+      background-size: 100% 100%; /*will span the picture to full avaliable place 100%*/
+      text-align: center;
+  }
+
+    form {
+        color: "bg-dark";
+    }
+    button {color: bg-dark}
+

@@ -4,7 +4,7 @@ body {
   }
 
   .jumbotron{ /*will apply to all objects with class jumbotron*/
-      background-image: url("https://github.com/tolewicz/UFOs_website_JavaScript/blob/master/nasa.jpg");
+      background-image: url("../images/nasa.jpg");
       background-size: 100% 100%; /*will span the picture to full avaliable place 100%*/
       text-align: center;
   }
